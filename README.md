@@ -1,7 +1,7 @@
 # fodomoStockQuery
 
 ## 概述
-fodomoStockQuery 是基於 Python 的7-11 fodomo APPs庫存查詢工具。
+fodomoStockQuery 是基於 Python 的7-11 fodomo APP庫存查詢工具。
 
 ## 特色
 - **庫存商品資料查詢**：支持自訂參數的商品資料檢索。
